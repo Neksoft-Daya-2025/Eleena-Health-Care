@@ -20,3 +20,7 @@ http://127.0.0.1:5173/
 - Home page, product listing, product detail pages, cart, checkout, contact page, search modal, and login panel.
 - Original WordPress upload assets copied into `public/assets/uploads`.
 - Cart data persists in browser `localStorage`.
+
+## Versioning
+
+This project follows semantic versioning. The current release is `1.0.0`.
